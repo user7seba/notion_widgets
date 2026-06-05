@@ -21,7 +21,7 @@ PowerShell profile and terminal customization files. Copy what you need into you
 
 ## 🌐 live widgets
 
-Base URL: `https://user7seba.github.io/notion_widgets/`
+Base URL: `https://user7seba.github.io/personal_repo/`
 
 ---
 
