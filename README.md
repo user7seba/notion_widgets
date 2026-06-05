@@ -11,6 +11,9 @@ Industrial Engineering student from Paraguay. I build stuff for fun — Notion w
 ### `notion/`
 Embeddable HTML widgets for Notion dashboards, hosted via GitHub Pages. To use one, grab its URL and paste it into Notion with `/embed`.
 
+### `yasb/`
+My personal edit of the GlazingMocha theme from YASB, feel free to take a look for my `config.yaml` and my `styles.css` files
+
 ### `roblox/`
 Scripts and systems for my Roblox projects. Drop any `.lua` or `.rbxm` file here.
 
