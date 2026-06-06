@@ -15,7 +15,7 @@ Embeddable HTML widgets for Notion dashboards, hosted via GitHub Pages. To use o
 My personal edit of the GlazingMocha theme from YASB, feel free to take a look for my `config.yaml` and my `styles.css` files
 
 ### `roblox/`
-Scripts and systems for my Roblox projects. Drop any `.lua` or `.rbxm` file here.
+Scripts and systems for my Roblox projects. I'll drop any `.lua` or `.rbxm` file here.
 
 ### `powershell/`
 PowerShell profile and terminal customization files. Copy what you need into your own `$PROFILE`.
